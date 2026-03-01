@@ -1,8 +1,8 @@
 The repository Code_ScalingVortForcing has the code to analyze data and generate figures for the paper "Scaling Breaking Wave Vorticity Generation in the Surfzone", published in the Journal of Physical Oceanography.
 
 The GitHub repository includes
-*/analysis_code/: directory with MATLAB code to analyze the data
-*/plot_code/: directory with MATLAB code to plot figures for the paper.
+  */analysis_code/: directory with MATLAB code to analyze the data
+  */plot_code/: directory with MATLAB code to plot figures for the paper.
 
 For the analysis code, the overall analysis code directory that calls all the sub-code for data analysis is located in /analysis_code/analysis_directory.m. 
 
